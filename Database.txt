@@ -1,0 +1,5 @@
+Database PHPMyAdmin
+
+Nama Database 	: Prak5
+Nama Tabel	: siswa (id,nama,password)
+		  ukm	(nama, ketua_ukm)
